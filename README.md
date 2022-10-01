@@ -1,1 +1,1 @@
-# SimpleArduino_exercice
+# Simple Arduino exercice
